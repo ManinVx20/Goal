@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: efff7c90216023f48ad4487391fe9bdf
+  m_SerializeEntries:
+  - m_GUID: 69f663ed233f9844098fd0316880a8c2
+    m_Address: Assets/Level/Prefabs/Dummy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1543e0fd7f25fdb49a5581f41245fd5f
+    m_Address: Assets/Level/UI/PlayerListItem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0ca7f8c02d0e1864b8777707129e8d7f
+    m_Address: Assets/Level/UI/SkillListItem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 97c591a7ec333184cbae55f43accce87
+    m_Address: Assets/Code/ScriptableObjects/Skills
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skill
+  - m_GUID: d850f4e42d862e441b2a8e33f49427fe
+    m_Address: Assets/Audio/Sound/button.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c37e6349889552d45b5c61048986821a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d211e7b554cd7a64990f49dc1ed9efe0, type: 2}
+    - {fileID: 11400000, guid: d6583ae18fe301e4db2ed03aa94a3481, type: 2}
